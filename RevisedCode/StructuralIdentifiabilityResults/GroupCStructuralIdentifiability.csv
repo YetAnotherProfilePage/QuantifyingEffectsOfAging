@@ -1,0 +1,13 @@
+MC1,,MC2,,MC3,,MC4,
+Parameter,Identifiability,Parameter,Identifiability,Parameter,Identifiability,Parameter,Identifiability
+d_T,globally,s_T,globally,d_T,globally,c_V,globally
+k_T,globally,c_T,globally,K,locally,d_T,globally
+c_V,globally,d_T,globally,c_V,globally,c_T,globally
+p,globally,T(t),globally,k_V,globally,p,globally
+r,globally,c_V,globally,p,globally,r,globally
+s_T,globally,K,locally,T(t),globally,s_T,globally
+k_V,globally,k_T,globally,V(t),globally,k_V,globally
+T(t),globally,V(t),globally,r,globally,T(t),globally
+V(t),globally,r,globally,s_T,globally,V(t),globally
+K,locally,p,globally,,,K,locally
+,,k_V,globally,,,,

@@ -1,0 +1,16 @@
+MB1,,MB2,,MB3,,MB4,
+Parameters,Identifiability,Parameters,Identifiability,Parameters,Identifiability,Parameters,Identifiability
+d_I,globally,c_T,globally,s_T,globally,c_T,globally
+V(t),globally,p,nonidentifiable,c,globally,V(t),globally
+r,globally,T(t),globally,I(t),nonidentifiable,r,globally
+d_T,globally,k_T,globally,T(t),globally,d_I,globally
+c,globally,beta,globally,beta,globally,c,globally
+k_T,globally,V(t),globally,d_I,globally,d_T,globally
+U(t),nonidentifiable,d_I,globally,U(t),nonidentifiable,U(t),nonidentifiable
+beta,globally,r,globally,r,globally,beta,globally
+T(t),globally,s_T,globally,V(t),globally,T(t),globally
+p,nonidentifiable,U(t),nonidentifiable,p,nonidentifiable,p,nonidentifiable
+s_T,globally,c,globally,d_T,globally,s_T,globally
+I(t),nonidentifiable,d_T,globally,,,I(t),nonidentifiable
+,,I(t),nonidentifiable,,,,
+
