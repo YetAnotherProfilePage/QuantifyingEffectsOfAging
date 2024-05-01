@@ -1,6 +1,9 @@
 ### About
-This repository contains the code and supplemental information for the manuscript titled "Modeling the CD8+ T cell immune response to influenza infection in adult and aged mice".
+This repository contains the code and supplemental information for the manuscript titled "Modeling the CD8+ T cell immune response to influenza infection in adult and aged mice". As the manuscript is still under revisions, this repository should be viewed as a work in progress.
 
-As the manuscript is still under revisions, this repository should be viewed as a work in progress. In particular, we expect to reorganize the Code folder, and further exposit the generation of specific results.
+The current supplemental material (Appendix A) to the manuscript can be found in the file "SupplementalMaterial.pdf" in the "Current Documents" folder.
 
-Supplemental material (Appendix A) to the manuscript can be found in the file "SupplementalMaterial.pdf".
+The code used to generate the current revision can be found in the "Current Code" folder.
+
+### Misc. Notes
+We choose to present the full history of the code explicitly, rather than through git versioning in order to maintain full transparency.
